@@ -25,6 +25,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-responsive": "9.0.2",
+    "react-select": "^5.10.0",
     "typescript": "5.1.6",
     "uid": "2.0.2"
   },
